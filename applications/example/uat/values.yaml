@@ -3,3 +3,9 @@ image:
   tag: 1.0-demo
 app:
   environment: uat
+message: "Hello Piotr from example on uat!"
+
+#liveness:
+#  path: /health
+#readiness:
+#  path: /health

@@ -4,3 +4,4 @@ image:
 app:
   name: basic
   environment: uat
+message: "Hello Piotr from basic on uat!"

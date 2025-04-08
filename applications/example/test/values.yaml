@@ -4,3 +4,8 @@ image:
 app:
   environment: test
 message: "Hello Piotr from example on test!"
+
+#liveness:
+#  path: /health
+#readiness:
+#  path: /health

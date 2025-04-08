@@ -4,3 +4,8 @@ image:
 app:
   environment: prod
 message: "Hello Piotr from example on prod!"
+
+#liveness:
+#  path: /health
+#readiness:
+#  path: /health
